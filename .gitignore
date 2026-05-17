@@ -26,6 +26,8 @@ df.py
 *.bak
 static/*.old.html
 static/*.mapbackup.html
+static/
+DataSet/
 
 # Large local media and working documents
 Hackabytes/

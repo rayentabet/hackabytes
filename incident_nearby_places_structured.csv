@@ -1,0 +1,326 @@
+incident_id,source,place_name,distance_to_fire_m,place_type,place_role,matched_within_radius_m,address,additional_info,osm_type,osm_id,google_place_id,place_latitude,place_longitude
+INC201,google,All Brands Factory Outlet,1.32,discount_store,place,200,"Tarik l matar, Bayrut, Lebanon",google_primary_type=discount_store; google_types=shopping_mall|discount_store|store|point_of_interest|establishment,,,ChIJwQ5_5i8XHxUR6QM5akb_7eo,33.8937882,35.5017987
+INC201,google,Beirut Badawi Modern Apartment,1.98,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJN9BOX-AWHxUR9AYgiTigARI,33.8937912,35.5017814
+INC201,google,Beirut Spacious Loft,1.98,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJN9BOX-AWHxURTPnCce0PQlI,33.8937912,35.5017814
+INC201,google,Boho 1 Mandala Studio W-24-24 Power in Mar Mikhael,2.28,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJfyxPX-AWHxURj5eEVfPflos,33.8937912,35.5017777
+INC201,google,Mar Makhayel Studios,2.28,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJfyxPX-AWHxUROv2h9td8Axk,33.8937912,35.5017777
+INC201,google,Seaview 602 1-BR Apartment by Gate 9 in Mar Mikhael,2.28,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJfyxPX-AWHxURY8qTLVjosdE,33.8937912,35.5017777
+INC201,google,Chaar Real Estate,2.35,real_estate_agency,place,200,"Mar Elias, Main, Facing Byblos Bank, 6th Floor, بيروت، Lebanon",google_primary_type=real_estate_agency; google_types=real_estate_agency|service|point_of_interest|establishment,,,ChIJue1_FawXHxUR1e2Cku9j99I,33.893791,35.501777
+INC201,google,Cyber Vision Solutions s.a.r.l,2.35,service,place,200,"Boulevard National, Bayrut 0000, Lebanon",google_primary_type=service; google_types=service|point_of_interest|establishment,,,ChIJGVr0nJ0_HxURFttaKfWisXs,33.893791,35.501777
+INC201,google,Dawaer Foundation,2.35,non_profit_organization,place,200,"Forn El Chebbak, Lebanon",google_primary_type=non_profit_organization; google_types=non_profit_organization|point_of_interest|association_or_organization|establishment,,,ChIJRRZIjCQXHxURsK65jMXWIMs,33.893791,35.501777
+INC201,google,Gargour Asia Lebanon,2.35,truck_dealer,place,200,"Gallery semaan, Bayrut, Lebanon",google_primary_type=truck_dealer; google_types=truck_dealer|store|point_of_interest|establishment,,,ChIJh575YeRDHxUR8ugWc5aJEP4,33.893791,35.501777
+INC201,google,Housein Slim Photography,2.35,service,place,200,"Ain El Remmaneh, Lebanon",google_primary_type=service; google_types=service|point_of_interest|establishment,,,ChIJ_Y3tDwoXHxURwTO7GX3uIVE,33.893791,35.501777
+INC201,google,International Paper Broker,2.35,wholesaler,place,200,"Rageb Harb، Haret Hreik, Lebanon",google_primary_type=wholesaler; google_types=wholesaler|manufacturer|point_of_interest|establishment,,,ChIJQzatjc4XHxURtguTTt_9gHg,33.893791,35.501777
+INC201,google,"Ismod Lebanon, iQos Lebanon , Galaxy pro",2.35,electronics_store,place,200,"Street, tal3it yazbeck, بيروت، Lebanon",google_primary_type=electronics_store; google_types=electronics_store|store|point_of_interest|establishment,,,ChIJwVdrKG8XHxURq4SyBpWDuI8,33.893791,35.501777
+INC201,google,Iziingubo,2.35,womens_clothing_store,place,200,"Beirut 0000, Lebanon",google_primary_type=womens_clothing_store; google_types=womens_clothing_store|clothing_store|store|point_of_interest|establishment,,,ChIJhdzngG-aIEcRsqCdLFB4jf0,33.893791,35.501777
+INC201,google,PRATEATO,2.35,real_estate_agency,place,200,"Foch Street, Marfaa 128 Building، FFA Real Estate, 4th Floor، Beirut Central District، Lebanon",google_primary_type=real_estate_agency; google_types=real_estate_agency|service|point_of_interest|establishment,,,ChIJJy1PX-AWHxURwJ4WG2QA7hs,33.893791,35.501777
+INC201,google,SRDB LAW FIRM BEIRUT,2.35,lawyer,place,200,"26, 28 Badaro Street، Box : 116-2064، Bayrut, Lebanon",google_primary_type=lawyer; google_types=lawyer|consultant|service|point_of_interest|establishment,,,ChIJJy1PX-AWHxURAoWb5SSw7Gg,33.893791,35.501777
+INC201,google,Sky Lounge Services,2.35,aircraft_rental_service,place,200,"General Aviation Terminal, Rafic Hariri Int'l Airport, بيروت، Lebanon",google_primary_type=aircraft_rental_service; google_types=aircraft_rental_service|transportation_service|service|point_of_interest|establishment,,,ChIJw40kHNQXHxURGMRbgb1qq3s,33.893791,35.501777
+INC201,google,TrainerMohammad.com,2.35,google_place,place,200,"Youssef El Assir Street، Shahine Building، 5th Floor، El Medawar House، Bayrut, Lebanon",google_primary_type=google_place; google_types=consultant|educational_institution|service|point_of_interest|establishment,,,ChIJV-pu3fUXHxUR3gwZwCrpjv8,33.893791,35.501777
+INC201,google,American Style Outlet,2.36,shopping_mall,place,200,"beirut barbour، بيروت،، Bayrut, Lebanon",google_primary_type=shopping_mall; google_types=shopping_mall|point_of_interest|establishment,,,ChIJk06KJ3QXHxUR7b8qWhVCcgk,33.8937912,35.5017767
+INC201,google,صيدلية الظريف,2.36,hospital,place,200,"VGV2+GP6, Beirut, Lebanon",google_primary_type=hospital; google_types=hospital|health|service|point_of_interest|establishment,,,ChIJxSf1-CMXHxUR-pdsDbg_DbE,33.8937912,35.5017767
+INC201,osm,UNESCO entrance,41.92,other,mapped_object,200,,,node,9495169395.0,,33.893952,35.5022156
+INC201,osm,Unnamed man_made:bridge,42.39,man_made:bridge,infrastructure,200,,man_made=bridge,way,778215955.0,,33.8934979,35.5015198
+INC201,osm,Unnamed military:checkpoint,61.02,military:checkpoint,military,200,,military=checkpoint,node,6497709288.0,,33.8941291,35.502329
+INC201,osm,No through road,100.34,amenity:police,place,200,شارع 21,amenity=police,node,8100724617.0,,33.8929058,35.501946
+INC201,osm,United Nations Economic and Social Commission for Western Asia,100.67,office:diplomatic,place,200,,office=diplomatic,node,6069448586.0,,33.8946793,35.5020599
+INC201,osm,Unnamed amenity:parking,101.56,amenity:parking,place,200,,amenity=parking,way,546140448.0,,33.8941262,35.5028278
+INC201,osm,Unnamed building,103.14,building:commercial,building,200,,building=commercial,way,483239204.0,,33.8946945,35.5020955
+INC201,osm,Unnamed building,110.73,building:yes,building,200,,building=yes,way,529578907.0,,33.8931572,35.5008838
+INC201,osm,National Evangelical Church of Beirut,111.53,amenity:place_of_worship,building,200,"شارع أحمد الداعوق, بيروت",building=church; amenity=place_of_worship,way,479475562.0,,33.8947526,35.5014218
+INC201,osm,Phoenicia,115.81,amenity:fuel,place,200,,amenity=fuel; brand=Medco,node,7417545305.0,,33.8928411,35.5022898
+INC201,osm,Unnamed building,119.77,building:yes,building,200,,building=yes,way,529578908.0,,33.8933835,35.5006033
+INC201,osm,Unnamed building,123.28,building:yes,building,200,,building=yes,way,546506380.0,,33.8927027,35.5016089
+INC201,osm,Unnamed amenity:parking,128.62,amenity:parking,place,200,,amenity=parking,way,438761510.0,,33.8943725,35.5005892
+INC201,osm,Unnamed building,128.8,building:yes,building,200,,building=yes,way,483074289.0,,33.8928034,35.5025112
+INC201,osm,Unnamed building,136.26,building:yes,building,200,,building=yes,way,489235082.0,,33.8947935,35.5009357
+INC201,osm,Unnamed building,136.65,building:yes,building,200,,building=yes,way,546506382.0,,33.8925745,35.5016895
+INC201,osm,Unnamed building,141.15,building:yes,building,200,,building=yes,way,489235084.0,,33.8946135,35.500626
+INC201,osm,Unnamed building,141.31,building:commercial,building,200,,building=commercial,way,483239205.0,,33.8950214,35.502223
+INC201,osm,Unnamed building,144.57,building:yes,building,200,,building=yes,way,546506381.0,,33.8925159,35.5015548
+INC201,osm,Unnamed building,148.33,building:yes,building,200,,building=yes,way,529578909.0,,33.8931525,35.500395
+INC201,osm,Unnamed building,151.71,building:yes,building,200,,building=yes,way,223137118.0,,33.8939984,35.5034262
+INC201,osm,Unnamed building,153.24,building:yes,building,200,,building=yes,way,546140472.0,,33.8926979,35.5008032
+INC201,osm,Unnamed building,154.24,building:yes,building,200,,building=yes,way,530829797.0,,33.8924405,35.5021316
+INC201,osm,Unnamed building,155.33,building:yes,building,200,,building=yes,way,529578910.0,,33.8935139,35.5001528
+INC201,osm,Unnamed amenity:parking,157.64,amenity:parking,place,200,,amenity=parking,way,194545122.0,,33.8933609,35.5034239
+INC201,osm,Unnamed building,163.61,building:yes,building,200,,building=yes,way,529578911.0,,33.893368,35.5001055
+INC201,osm,Unnamed building,164.78,building:yes,building,200,,building=yes,way,546140471.0,,33.8928378,35.5004422
+INC201,osm,The Landmark,165.27,other,mapped_object,200,,contact:website=http://www.landmarklb.com/,way,23856429.0,,33.8946353,35.503281
+INC201,osm,Unnamed building,172.56,building:yes,building,200,,building=yes,way,529578927.0,,33.8937361,35.499932
+INC201,osm,Rafiq Hariri,173.6,tourism:artwork,place,200,,tourism=artwork,node,4815020860.0,,33.8952402,35.501074
+INC201,osm,Unnamed building,174.58,building:yes,building,200,,building=yes,way,546506379.0,,33.89223,35.5018066
+INC201,osm,Unnamed building,174.93,building:yes,building,200,,building=yes,way,546506384.0,,33.8922578,35.5014256
+INC201,osm,Unnamed tourism:artwork,177.03,tourism:artwork,place,200,,tourism=artwork,node,4815020861.0,,33.8950806,35.5029396
+INC201,osm,Unnamed amenity:parking,177.41,amenity:parking,place,200,,amenity=parking,way,1180744514.0,,33.8949634,35.5031153
+INC201,osm,Place Riad El-Solh,179.17,other,mapped_object,200,,,way,34380915.0,,33.8950857,35.50297
+INC201,osm,Unnamed building,180.78,building:yes,building,200,,building=yes,way,485318877.0,,33.8949108,35.5003698
+INC201,osm,Unnamed building,181.93,building:yes,building,200,,building=yes,way,529578913.0,,33.8932274,35.4999536
+INC201,osm,Unnamed building,182.19,building:yes,building,200,,building=yes,way,479676540.0,,33.8928596,35.5001836
+INC201,osm,Unnamed building,184.47,building:yes,building,200,,building=yes,way,750192121.0,,33.8937044,35.4998047
+INC201,osm,Unnamed building,185.38,building:yes,building,200,,building=yes,way,1136378300.0,,33.892391,35.5007265
+INC201,osm,Unnamed building,185.69,building:yes,building,200,,building=yes,way,529578912.0,,33.8934213,35.4998406
+INC201,osm,Unnamed building,187.8,building:yes,building,200,,building=yes,way,546506385.0,,33.8921153,35.5016569
+INC201,osm,Unnamed building,190.23,building:yes,building,200,,building=yes,way,1410979544.0,,33.8947901,35.5001192
+INC201,osm,Unnamed building,192.59,building:yes,building,200,,building=yes,way,529578914.0,,33.8930729,35.4999062
+INC201,osm,Unnamed building,195.74,building:yes,building,200,,building=yes,way,529578928.0,,33.8938621,35.4996806
+INC202,google,OCHA Lebanon,15.23,corporate_office,place,200,VGV2+RRX، بيروت، Lebanon,google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJgyZs5OYWHxURSfEsZjBumfA,33.8946079,35.5021017
+INC202,osm,United Nations Economic and Social Commission for Western Asia,20.69,office:diplomatic,place,200,,office=diplomatic,node,6069448586.0,,33.8946793,35.5020599
+INC202,osm,Unnamed building,23.35,building:commercial,building,200,,building=commercial,way,483239204.0,,33.8946945,35.5020955
+INC202,google,UN-ESCWA,24.09,association_or_organization,place,200,"VGR2+VPP, Beirut, Lebanon",google_primary_type=association_or_organization; google_types=association_or_organization|point_of_interest|establishment,,,ChIJr-ml6OAWHxURHE-mZbsQ1kU,33.8946885,35.5021286
+INC202,google,UN Habitat,30.12,corporate_office,place,200,"UN-House, Cheikh Toufik Khaled، Bayrut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJEYkhK-EWHxURwA72kHDFgjA,33.8947025,35.5022168
+INC202,google,حيط الاسكوا,35.19,historical_landmark,place,200,"VGV2+QWH, Cheikh Toufik Khaled, Bayrut, Lebanon",google_primary_type=historical_landmark; google_types=historical_landmark|historical_place|point_of_interest|establishment,,,ChIJV2bpCgAXHxURlBgy98aAl3A,33.8944346,35.502373
+INC202,google,Gebran Khalil Gebran Park,47.6,park,place,200,"VGV2+JPV Gebran Khalil Gebran Horsh Tabet, Bayrut, Lebanon",google_primary_type=park; google_types=park|point_of_interest|establishment,,,ChIJfa4c9OAWHxURQPLtkmp76ms,33.8941084,35.5017918
+INC202,osm,Unnamed military:checkpoint,51.22,military:checkpoint,military,200,,military=checkpoint,node,6497709288.0,,33.8941291,35.502329
+INC202,google,Bocrete,54.02,general_contractor,place,200,"Beirut, Lebanon",google_primary_type=general_contractor; google_types=general_contractor|point_of_interest|service|establishment,,,ChIJL32_tJg3HxUR1Asu-r9Lrmg,33.8940265,35.502131
+INC202,google,ShiftWave Media,60.21,service,place,200,"haret hreik, Center Sawli f3, بيروت 0000, Lebanon",google_primary_type=service; google_types=point_of_interest|service|establishment,,,ChIJk4pbFc0XHxURlB4Lf-ZYJ58,33.8939806,35.5021843
+INC202,osm,National Evangelical Church of Beirut,60.31,amenity:place_of_worship,building,200,"شارع أحمد الداعوق, بيروت",building=church; amenity=place_of_worship,way,479475562.0,,33.8947526,35.5014218
+INC202,osm,Unnamed building,61.52,building:commercial,building,200,,building=commercial,way,483239205.0,,33.8950214,35.502223
+INC202,google,Key Consulting Agency,63.23,corporate_office,place,200,"VGV2+HQH, Beirut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJQ-QhTgAXHxUREezh27fdilM,33.8939315,35.5019847
+INC202,google,UN Beirut,63.44,corporate_office,place,200,"VGW2+2W2 UN House ESCWA, Bayrut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJZ-ka3eAWHxURolo2G9cCrWw,33.8950227,35.5022754
+INC202,osm,UNESCO entrance,64.1,other,mapped_object,200,,,node,9495169395.0,,33.893952,35.5022156
+INC202,google,National Evangelical Church,65.08,church,place,200,"VGV2+WHM, Beirut, Lebanon",google_primary_type=church; google_types=church|place_of_worship|association_or_organization|point_of_interest|establishment,,,ChIJ0YFJk-AWHxURODbHczre59w,33.89484,35.5014261
+INC202,google,Saccal Enterprise,65.11,general_contractor,place,200,"VGV3+Q34, Beirut, Lebanon",google_primary_type=general_contractor; google_types=general_contractor|point_of_interest|service|establishment,,,ChIJV7smJgAXHxURa8nGcqE4Qk8,33.8943882,35.5026925
+INC202,google,Kashkha,66.31,womens_clothing_store,place,200,"Hadath-American Street, Gardenia Building, No. 482, بيروت 0000, Lebanon",google_primary_type=womens_clothing_store; google_types=womens_clothing_store|clothing_store|store|point_of_interest|establishment,,,ChIJU31p_JoXHxURSC8xlIuu53k,33.8939961,35.5016158
+INC202,google,ISOL for Broadcast,66.38,google_place,place,200,"square, Riad El Solh St, Bayrut, Lebanon",google_primary_type=google_place; google_types=point_of_interest|establishment,,,ChIJtdfT3OAWHxURfcuAB7pMRz8,33.8950657,35.5022297
+INC202,google,Xpandable Lebanon - Digital Marketing Agency in Lebanon,68.12,service,place,200,"شارع لبنان, Bayrut, Lebanon",google_primary_type=service; google_types=marketing_consultant|consultant|point_of_interest|service|establishment,,,ChIJj6eAWCEXHxURWByFnPXpMTc,33.8945035,35.501262
+INC202,google,Solidere Lavish Apartments in Downtown Beirut,68.94,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJ65iS4eAWHxURz2mpJil4jPk,33.8944816,35.5027466
+INC202,google,MI Dental Clinic - Lebanon,69.83,dental_clinic,place,200,"DownTown - in front of Saray - Chaker & Owaini Building - 4th floor، Bayrut, Lebanon",google_primary_type=dental_clinic; google_types=dental_clinic|point_of_interest|medical_clinic|health|establishment,,,ChIJ9WI60AEXHxURPapP12ToJkY,33.8950958,35.5022392
+INC202,google,المجلس الأعلى للجمارك,71.39,government_office,place,200,"VGW2+2X7, Beirut, Lebanon",google_primary_type=government_office; google_types=point_of_interest|service|government_office|establishment,,,ChIJ_cE33OAWHxUR7dYbTN-z7zk,33.8950422,35.5024142
+INC202,google,Chaker and Owaini building,78.47,finance,place,200,"VGW2+3VG, Beirut, Lebanon",google_primary_type=finance; google_types=finance|point_of_interest|service|establishment,,,ChIJ00ysxOAWHxURlgRHHarbUik,33.8951851,35.502204
+INC202,google,Phoenix for consulting and law firm مكتب المحامي إبراهيم خليل عواد,81.03,lawyer,place,200,"Facing government palace Downtown, Riyadh el soloh, Bayrut 2020, Lebanon",google_primary_type=lawyer; google_types=lawyer|consultant|point_of_interest|service|establishment,,,ChIJC8d7URwXHxURZckheLEIG-o,33.8952039,35.5022272
+INC202,osm,Unnamed amenity:parking,86.98,amenity:parking,place,200,,amenity=parking,way,546140448.0,,33.8941262,35.5028278
+INC202,osm,Unnamed building,103.51,building:yes,building,200,,building=yes,way,489235082.0,,33.8947935,35.5009357
+INC202,osm,Unnamed tourism:artwork,108.12,tourism:artwork,place,200,,tourism=artwork,node,4815020861.0,,33.8950806,35.5029396
+INC202,osm,Place Riad El-Solh,110.71,other,mapped_object,200,,,way,34380915.0,,33.8950857,35.50297
+INC202,osm,Unnamed amenity:parking,115.12,amenity:parking,place,200,,amenity=parking,way,1180744514.0,,33.8949634,35.5031153
+INC202,osm,Rafiq Hariri,118.66,tourism:artwork,place,200,,tourism=artwork,node,4815020860.0,,33.8952402,35.501074
+INC202,osm,The Landmark,119.19,other,mapped_object,200,,contact:website=http://www.landmarklb.com/,way,23856429.0,,33.8946353,35.503281
+INC202,osm,Unnamed man_made:bridge,119.92,man_made:bridge,infrastructure,200,,man_made=bridge,way,778215955.0,,33.8934979,35.5015198
+INC202,osm,Unnamed building,127.45,building:yes,building,200,,building=yes,way,489235084.0,,33.8946135,35.500626
+INC202,osm,Unnamed amenity:parking,130.99,amenity:parking,place,200,,amenity=parking,way,438761510.0,,33.8943725,35.5005892
+INC202,osm,Unnamed amenity:parking,137.99,amenity:parking,place,200,,amenity=parking,way,850872214.0,,33.8957213,35.5017349
+INC202,osm,Unnamed building,142.97,building:yes,building,200,,building=yes,way,223137118.0,,33.8939984,35.5034262
+INC202,osm,Unnamed building,145.36,building:yes,building,200,,building=yes,way,479475561.0,,33.895742,35.5024912
+INC202,osm,Omar Onsi,145.79,other,mapped_object,200,,,node,385894313.0,,33.8958095,35.5020792
+INC202,osm,Unnamed building,157.25,building:yes,building,200,,building=yes,way,485318877.0,,33.8949108,35.5003698
+INC202,osm,Unnamed building,164.33,building:yes,building,200,,building=yes,relation,7128037.0,,33.89539,35.5034214
+INC202,osm,Saint Nishan Armenian Orthodox Church,166.66,amenity:place_of_worship,building,200,,building=church; amenity=place_of_worship,way,485318874.0,,33.8951919,35.5003983
+INC202,osm,Unnamed amenity:fountain,168.39,amenity:fountain,place,200,,amenity=fountain,node,2320698093.0,,33.8960107,35.5021273
+INC202,osm,Unnamed building,174.01,building:yes,building,200,,building=yes,way,30907183.0,,33.8957743,35.5030943
+INC202,osm,Unnamed building,176.57,building:yes,building,200,,building=yes,way,1410979544.0,,33.8947901,35.5001192
+INC202,osm,No through road,177.34,amenity:police,place,200,شارع 21,amenity=police,node,8100724617.0,,33.8929058,35.501946
+INC202,osm,Unnamed building,178.98,building:yes,building,200,,building=yes,way,529578908.0,,33.8933835,35.5006033
+INC202,osm,Unnamed building,181.41,building:yes,building,200,,building=yes,way,529578907.0,,33.8931572,35.5008838
+INC202,osm,Unnamed amenity:parking,182.53,amenity:parking,place,200,,amenity=parking,way,194545122.0,,33.8933609,35.5034239
+INC202,osm,Phoenicia,186.39,amenity:fuel,place,200,,amenity=fuel; brand=Medco,node,7417545305.0,,33.8928411,35.5022898
+INC202,osm,Unnamed amenity:fountain,189.86,amenity:fountain,place,200,,amenity=fountain,node,605456338.0,,33.8959623,35.500938
+INC202,osm,Unnamed building,194.46,building:yes,building,200,,building=yes,way,483074289.0,,33.8928034,35.5025112
+INC202,osm,Capitole,194.5,amenity:restaurant,place,200,بيروت,amenity=restaurant,node,4957101525.0,,33.8950642,35.5039947
+INC202,osm,Unnamed building,196.37,building:yes,building,200,,building=yes,way,485318876.0,,33.8946731,35.4998827
+INC202,osm,Serail Hill,197.54,office:government,building,200,Beirut,building=government; office=government; tourism=attraction,relation,7097787.0,,33.8960289,35.50091
+INC202,osm,Unnamed amenity:parking,198.58,amenity:parking,place,200,,amenity=parking,way,485318871.0,,33.8950678,35.4999602
+INC203,google,"Saint George Syriac Catholic Cathedral, Bachoura",11.84,church,place,200,"VGR3+7JW, Beirut, Lebanon",google_primary_type=church; google_types=church|place_of_worship|association_or_organization|point_of_interest|establishment,,,ChIJbbCb9hQXHxURZmzqqBGUNJc,33.8910821,35.5049183
+INC203,osm,san george,12.01,amenity:place_of_worship,building,200,,building=church; amenity=place_of_worship,way,483078833.0,,33.8910975,35.5049441
+INC203,osm,BDD 1227,14.75,building:yes,building,200,,building=yes,way,850872206.0,,33.8908854,35.5049195
+INC203,google,Finance in Motion GmbH,14.85,finance,place,200,"Block, Siryan, بيروت 1227, Lebanon",google_primary_type=finance; google_types=finance|point_of_interest|establishment,,,ChIJj4et4qoXHxURFjSS3yfNa1k,33.8908679,35.5049764
+INC203,google,SAUGO 360,16.73,google_place,place,200,"VGR4+925, Beirut, Lebanon",google_primary_type=google_place; google_types=point_of_interest|establishment,,,ChIJv9pehtUWHxUR4yFr96145yQ,33.8908838,35.5051152
+INC203,google,Siren Associates,21.31,corporate_office,place,200,"Beirut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJR-l2i-YWHxUR4Za0AKm02UA,33.8908211,35.5049171
+INC203,google,Decentra Tech,25.37,google_place,place,200,"Beirut Digital District, Siryan Patriarcat Str., BDD 1227, block B, 3rd, بيروت، Lebanon",google_primary_type=google_place; google_types=point_of_interest|establishment,,,ChIJZW4MjZQXHxURKdPLRtSgCFY,33.8907721,35.5049864
+INC203,google,Zeal Communities,30.43,community_center,place,200,"BDD1227, Block A-10th floor, Bayrut, Lebanon",google_primary_type=community_center; google_types=community_center|event_venue|service|point_of_interest|establishment,,,ChIJ06etKwAXHxURZTo0uV1PqkU,33.8912518,35.505129
+INC203,google,One Eighty Technologies,31.31,community_center,place,200,"Bechara El Khoury, Bayrut, Lebanon",google_primary_type=community_center; google_types=community_center|event_venue|service|point_of_interest|establishment,,,ChIJaTMiaJcXHxURdmy-1Cu82gA,33.8912783,35.5049485
+INC203,google,Advantellect,31.59,consultant,place,200,"BDD 1499, Nassif El Yazigi, Bayrut, Lebanon",google_primary_type=consultant; google_types=consultant|service|point_of_interest|establishment,,,ChIJkdPPt_obfocRH6UGq7m3n94,33.891138,35.5052992
+INC203,google,Coverse Technologies,32.69,google_place,place,200,"St, Bechara El Khoury & Fouad Chehab Avenue, Nassif El Yazaji St Street, Syriac Patriarchate, BDD 1280, Floor 0, شارع خليل سركيس، بيروت 11072026, Lebanon",google_primary_type=google_place; google_types=employment_agency|consultant|government_office|service|point_of_interest|establishment,,,ChIJe03RLnsXHxURWVMrYj1-gOA,33.8910461,35.5053498
+INC203,google,Beirut Digital District,32.95,community_center,place,200,"Bechara El Khoury & Fouad Chehab Avenue, Nassif El Yazaji St Street, Syriac Patriarchate, St, شارع خليل سركيس، بيروت، Lebanon",google_primary_type=community_center; google_types=community_center|event_venue|service|point_of_interest|establishment,,,ChIJkQVdiuEWHxURtgXwwO_0Sgg,33.8910265,35.5053556
+INC203,google,Chessahead,33.79,sports_club,place,200,"St, Bechara El Khoury & Fouad Chehab, El Yazaji St Street BDD 1075 - Rooftop, شارع نصيف يازيجي، بيروت 1111, Lebanon",google_primary_type=sports_club; google_types=sports_club|association_or_organization|point_of_interest|establishment,,,ChIJx6EgI9kXHxURBbcHtmmE7q4,33.8907801,35.5052527
+INC203,google,Trócaire,34.06,association_or_organization,place,200,"VGR4+F9, Beirut, Lebanon",google_primary_type=association_or_organization; google_types=association_or_organization|point_of_interest|establishment,,,ChIJBUDwLVMXHxURqwIzlIbszfk,33.8910321,35.505367
+INC203,google,SquareSafe Solutions,35.16,service,place,200,"GF – Beirut Digital District 1280 Bldg, Bayrut, Lebanon",google_primary_type=service; google_types=consultant|service|point_of_interest|establishment,,,ChIJz9DJdg4XHxURuSSjZ-J12F8,33.8909281,35.5053709
+INC203,google,Siren Analytics,36.22,consultant,place,200,"VGR4+G2M, Nassif Yazigi, Bayrut, Lebanon",google_primary_type=consultant; google_types=consultant|service|point_of_interest|establishment,,,ChIJddpwMdYXHxUREafImtqZTrQ,33.8913083,35.5051267
+INC203,google,Appartment for rent- 5 min from beirut downtown,36.28,lodging,place,200,"Beirut, Lebanon",google_primary_type=lodging; google_types=lodging|point_of_interest|establishment,,,ChIJ5TMB9-EWHxURB7OvmReZFcM,33.8909607,35.5053902
+INC203,google,Manakeesh,38.72,restaurant,place,200,"VGR3+7W8, Tyane, Bayrut, Lebanon",google_primary_type=restaurant; google_types=restaurant|food|point_of_interest|establishment,,,ChIJQTGPEwAXHxURpBsusyvBdgk,33.8906612,35.504903
+INC203,google,Bdd lower piazza,39.33,park,place,200,"VGR4+F4W, Beirut, Lebanon",google_primary_type=park; google_types=park|point_of_interest|establishment,,,ChIJUQW24TYXHxURfjxR2kAjLoU,33.8912357,35.5053177
+INC203,google,Rifai HQ,40.04,food_store,place,200,"Beirut digital district, bldg. 1227 bloc A, بيروت، Lebanon",google_primary_type=food_store; google_types=food_store|store|food|point_of_interest|establishment,,,ChIJG6sGFkoXHxUR88-Onzcyas8,33.89136,35.5050114
+INC203,google,Yemnak,40.31,finance,place,200,"Beirut Digital District, Bayrut 1107, Lebanon",google_primary_type=finance; google_types=finance|point_of_interest|establishment,,,ChIJ38PQqPIXHxUROrGJFIdoF8E,33.8910305,35.5054352
+INC203,osm,Unnamed amenity:parking,40.67,amenity:parking,place,200,,amenity=parking,way,850872205.0,,33.8908295,35.5046102
+INC203,google,Sandbox,41.29,google_place,place,200,"Bdd, Bayrut, Lebanon",google_primary_type=google_place; google_types=point_of_interest|establishment,,,ChIJj1f6fAAXHxURxi0sEEVVqNE,33.8912621,35.5053169
+INC203,osm,Unnamed building,43.62,building:yes,building,200,,building=yes,way,483078832.0,,33.8913875,35.5049263
+INC203,osm,Unnamed building,47.29,building:yes,building,200,,building=yes,way,546769159.0,,33.890575,35.5050183
+INC203,osm,Goethe Institute,47.84,amenity:school,place,200,,amenity=school,node,11208888037.0,,33.8906152,35.5052319
+INC203,osm,Unnamed building,48.12,building:yes,building,200,,building=yes,way,546769158.0,,33.8905819,35.5048656
+INC203,osm,BDD 1281,51.51,building:yes,building,200,,building=yes,way,546769160.0,,33.8905801,35.5052358
+INC203,osm,Unnamed building,54.07,building:yes,building,200,,building=yes,way,488032133.0,,33.8908826,35.5044315
+INC203,osm,Unnamed building,55.15,building:yes,building,200,,building=yes,way,546767047.0,,33.8911912,35.5044487
+INC203,osm,Unnamed building,58.42,building:yes,building,200,,building=yes,way,546767045.0,,33.8913609,35.50454
+INC203,osm,Unnamed amenity:parking,59.6,amenity:parking,place,200,,amenity=parking,way,544625745.0,,33.8910938,35.5056357
+INC203,osm,Unnamed building,70.51,building:yes,building,200,,building=yes,way,546769157.0,,33.8903671,35.5050465
+INC203,osm,BDD 1243,73.02,building:yes,building,200,"شارع بشارة الخوري, Beyrouth",building=yes,way,514274418.0,,33.8912408,35.505736
+INC203,osm,Damergi,74.25,amenity:pharmacy,place,200,شارع التيّان,amenity=pharmacy; healthcare=pharmacy,node,4661434293.0,,33.8903459,35.5048381
+INC203,osm,INSTITUTO CERVANTES BEIRUT,74.7,amenity:college,place,200,,amenity=college,node,5306267529.0,,33.8915326,35.5054933
+INC203,osm,Unnamed building,74.75,building:yes,building,200,,building=yes,way,546767048.0,,33.8911319,35.5042059
+INC203,osm,BDD 1280,76.19,building:yes,building,200,,building=yes,way,1452302313.0,,33.89037,35.5053247
+INC203,osm,Unnamed building,76.22,building:yes,building,200,,building=yes,way,546769156.0,,33.8903239,35.5048641
+INC203,osm,Unnamed building,77.65,building:yes,building,200,,building=yes,way,488032132.0,,33.8905863,35.5043223
+INC203,osm,Unnamed building,81.58,building:yes,building,200,,building=yes,way,546767054.0,,33.8903396,35.5046149
+INC203,osm,Unnamed amenity:parking,83.71,amenity:parking,place,200,,amenity=parking,way,546767050.0,,33.8909256,35.5040975
+INC203,osm,Unnamed landuse:brownfield,83.92,landuse:brownfield,mapped_object,200,,,way,546769167.0,,33.8917546,35.5049858
+INC203,osm,Unnamed building,84.15,building:yes,building,200,,building=yes,way,546767046.0,,33.891447,35.5042643
+INC203,osm,Unnamed amenity:parking,85.14,amenity:parking,place,200,,amenity=parking,way,546769170.0,,33.8917172,35.5053231
+INC203,osm,Unnamed building,88.65,building:yes,building,200,,building=yes,way,546769165.0,,33.8911553,35.505942
+INC203,osm,ecomz,88.95,shop:variety_store,business,200,,shop=variety_store,node,7450074529.0,,33.8914919,35.5057599
+INC203,osm,Unnamed building,90.85,building:yes,building,200,,building=yes,way,483169062.0,,33.8916399,35.5056119
+INC203,osm,Unnamed building,91.53,building:yes,building,200,,building=yes,way,488028999.0,,33.8906206,35.50412
+INC203,osm,Unnamed building,91.67,building:yes,building,200,,building=yes,way,546767049.0,,33.8910522,35.5040088
+INC203,osm,Zero&One,92.52,office:company,place,200,1499 شارع ناصيف اليازجي,office=company; opening_hours=Su-Th 09:00-18:00; phone=+9611669694; website=https://zeroandone.me,node,13683973102.0,,33.8916236,35.5056636
+INC203,osm,Unnamed amenity:parking,92.54,amenity:parking,place,200,Beyrouth,amenity=parking,way,544625747.0,,33.8904173,35.5057158
+INC203,osm,Unnamed building,93.71,building:yes,building,200,,building=yes,way,546767053.0,,33.8909583,35.503986
+INC203,osm,cleartag,96.52,shop:variety_store,business,200,,shop=variety_store,node,7450074526.0,,33.8915454,35.5058135
+INC203,osm,Unnamed building,97.31,building:yes,building,200,,building=yes,way,546769166.0,,33.8913016,35.5059897
+INC203,osm,Unnamed amenity:parking,97.33,amenity:parking,place,200,,amenity=parking,way,1241221792.0,,33.8913108,35.5040143
+INC203,osm,bluering,100.55,shop:variety_store,business,200,,shop=variety_store,node,7450074527.0,,33.8915231,35.5058886
+INC203,osm,Unnamed building,104.09,building:yes,building,200,,building=yes,way,546767055.0,,33.8901205,35.5046139
+INC203,osm,BDD,105.91,building:commercial,building,200,,building=commercial,way,546769163.0,,33.8908358,35.5061302
+INC203,osm,Unnamed building,106.95,building:yes,building,200,,building=yes,way,488028998.0,,33.890523,35.5039938
+INC203,osm,Unnamed building,108.52,building:yes,building,200,,building=yes,way,546767056.0,,33.8901792,35.5043639
+INC203,osm,Unnamed building,109.02,building:yes,building,200,,building=yes,way,488028997.0,,33.8907207,35.5038678
+INC203,osm,Unnamed building,110.11,building:yes,building,200,,building=yes,way,546769164.0,,33.8911445,35.5061801
+INC203,osm,sita headquarter,111.19,building:commercial,building,200,,building=commercial,way,483240622.0,,33.8900001,35.5049903
+INC203,osm,Unnamed building,112.65,building:yes,building,200,,building=yes,way,546767052.0,,33.8909441,35.5037814
+INC203,osm,Unnamed building,113.01,building:yes,building,200,,building=yes,way,546769153.0,,33.8899855,35.5050734
+INC203,osm,Unnamed amenity:parking,113.9,amenity:parking,place,200,,amenity=parking,way,895610976.0,,33.891798,35.5042264
+INC203,osm,Unnamed building,116.04,building:yes,building,200,,building=yes,way,546769162.0,,33.890539,35.5061279
+INC203,osm,Unnamed landuse:brownfield,116.79,landuse:brownfield,mapped_object,200,,,way,546769168.0,,33.8920501,35.504972
+INC203,osm,Unnamed building,117.25,building:yes,building,200,,building=yes,way,546767058.0,,33.8903279,35.5040212
+INC203,osm,Unnamed building,120.9,building:yes,building,200,,building=yes,way,546772283.0,,33.8920371,35.5046068
+INC203,osm,Unnamed building,121.11,building:yes,building,200,,building=yes,way,483169061.0,,33.8920679,35.5052579
+INC203,osm,Unnamed amenity:parking,121.69,amenity:parking,place,200,,amenity=parking,way,546769169.0,,33.8919823,35.5055812
+INC203,osm,Unnamed building,121.83,building:yes,building,200,,building=yes,way,483169063.0,,33.8916378,35.5060732
+INC203,osm,Unnamed building,121.98,building:yes,building,200,,building=yes,way,546767060.0,,33.8901328,35.5041907
+INC203,osm,Unnamed building,122.77,building:yes,building,200,,building=yes,way,546767051.0,,33.891105,35.5036759
+INC203,osm,Unnamed amenity:parking,122.81,amenity:parking,place,200,Beyrouth,amenity=parking,way,546769155.0,,33.8899509,35.5054159
+INC203,osm,Unnamed building,123.12,building:yes,building,200,,building=yes,way,546767057.0,,33.8899561,35.5045552
+INC203,osm,Unnamed building,126.34,building:yes,building,200,,building=yes,way,546767037.0,,33.8913693,35.5037056
+INC203,osm,Unnamed building,128.94,building:yes,building,200,,building=yes,way,488028996.0,,33.8906762,35.5036587
+INC203,osm,Unnamed building,132.08,building:yes,building,200,,building=yes,way,546769161.0,,33.8902985,35.5061547
+INC203,osm,instituto cervantes de beirut,133.99,shop:variety_store,business,200,,shop=variety_store,node,7450074528.0,,33.8918972,35.5059691
+INC203,osm,Bank Audi,136.62,amenity:bank,place,200,,amenity=bank,node,4820070917.0,,33.8917612,35.5061619
+INC203,osm,Unnamed amenity:parking,137.1,amenity:parking,place,200,,amenity=parking,way,546767076.0,,33.8903114,35.5037679
+INC203,osm,Unnamed building,137.28,building:yes,building,200,,building=yes,way,546767061.0,,33.8899412,35.5042351
+INC203,osm,Unnamed building,138.29,building:construction,building,200,,building=construction,way,483169060.0,,33.891949,35.5059684
+INC203,osm,Unnamed building,139.2,building:yes,building,200,,building=yes,way,546769173.0,,33.8910231,35.5065078
+INC203,osm,Unnamed building,139.63,building:yes,building,200,,building=yes,way,546769154.0,,33.8898203,35.5055185
+INC203,osm,Unnamed building,140.11,building:yes,building,200,,building=yes,way,546767059.0,,33.8900497,35.5040032
+INC203,osm,Unnamed building,141.16,building:yes,building,200,,building=yes,way,546769172.0,,33.8911979,35.5065106
+INC203,osm,Unnamed building,142.0,building:yes,building,200,,building=yes,way,483169058.0,,33.8908254,35.506524
+INC203,osm,Unnamed building,144.13,building:yes,building,200,,building=yes,way,546767038.0,,33.8914566,35.5035386
+INC203,osm,Unnamed building,145.09,building:yes,building,200,,building=yes,way,546767064.0,,33.8903951,35.5036072
+INC203,osm,iotree,145.93,other,mapped_object,200,,,node,276563839.0,,33.8922998,35.5047813
+INC203,osm,Unnamed amenity:parking,146.56,amenity:parking,place,200,Beyrouth,amenity=parking,way,544625750.0,,33.8899296,35.5059265
+INC203,osm,Unnamed building,146.61,building:yes,building,200,,building=yes,way,546767069.0,,33.8909429,35.5034131
+INC203,osm,Unnamed amenity:place_of_worship,149.23,amenity:place_of_worship,building,200,,building=mosque; amenity=place_of_worship,way,483078831.0,,33.891229,35.503407
+INC203,osm,Unnamed building,150.12,building:yes,building,200,,building=yes,way,546767070.0,,33.8908143,35.5033891
+INC203,osm,Leap Ventures,150.67,other,mapped_object,200,"شارع بشارة الخوري;شارع بيبلوس, بيروت",website=https://leap.vc,node,4025961100.0,,33.8919949,35.5061082
+INC203,osm,51,151.12,other,mapped_object,200,,,node,394711355.0,,33.8921943,35.5057813
+INC203,osm,Unnamed building,151.98,building:yes,building,200,,building=yes,way,546767077.0,,33.8900807,35.5037815
+INC203,osm,Unnamed amenity:parking,154.16,amenity:parking,place,200,,amenity=parking,way,895610975.0,,33.8922591,35.504301
+INC203,osm,Van #4 - towards Laylaki,159.19,amenity:bus_station,place,200,شارع بشارة الخوري,amenity=bus_station,node,12449193401.0,,33.8920037,35.5062298
+INC203,osm,Unnamed building,159.4,building:yes,building,200,,building=yes,way,546767072.0,,33.8905368,35.5033657
+INC203,osm,Unnamed building,159.88,building:yes,building,200,,building=yes,way,546767031.0,,33.8911674,35.5032796
+INC203,osm,Unnamed building,161.1,building:yes,building,200,,building=yes,way,581836376.0,,33.8896793,35.5042825
+INC203,osm,Unnamed building,162.19,building:yes,building,200,,building=yes,way,581836375.0,,33.8897299,35.5041361
+INC203,osm,Unnamed building,162.62,building:yes,building,200,,building=yes,way,581836389.0,,33.8895386,35.5050681
+INC203,osm,Bashura,162.79,other,mapped_object,200,,,node,4759500422.0,,33.8919883,35.5036988
+INC203,osm,Unnamed building,163.76,building:yes,building,200,,building=yes,way,581836388.0,,33.889534,35.5048309
+INC203,osm,Unnamed building,164.06,building:yes,building,200,,building=yes,way,581836377.0,,33.8896133,35.5043929
+INC203,osm,Pharmacie Marc Joseph,164.44,amenity:pharmacy,place,200,,amenity=pharmacy; healthcare=pharmacy,node,3260350961.0,,33.890922,35.506779
+INC203,osm,Unnamed building,164.53,building:yes,building,200,,building=yes,way,546767065.0,,33.8903686,35.503388
+INC203,osm,Unnamed building,164.6,building:yes,building,200,,building=yes,way,546767071.0,,33.8907131,35.5032506
+INC203,osm,Unnamed building,164.89,building:yes,building,200,,building=yes,way,546767068.0,,33.8908578,35.5032218
+INC203,osm,Unnamed building,165.04,building:yes,building,200,,building=yes,way,581836374.0,,33.8897828,35.5039769
+INC203,osm,Falafel Sahyoun,165.55,amenity:fast_food,place,200,"طريق الشام, Beyrouth",amenity=fast_food,node,3258287571.0,,33.8904075,35.5066454
+INC203,osm,Unnamed building,166.51,building:yes,building,200,,building=yes,way,546767032.0,,33.8910812,35.5031987
+INC203,osm,Unnamed amenity:parking,166.57,amenity:parking,place,200,,amenity=parking,way,556872068.0,,33.8895449,35.5045714
+INC203,osm,Unnamed building,166.73,building:yes,building,200,,building=yes,way,581836392.0,,33.8895329,35.505373
+INC203,osm,Unnamed building,167.22,building:yes,building,200,,building=yes,way,546772285.0,,33.8916041,35.506659
+INC203,osm,Malak Al Tawouk,168.57,amenity:fast_food,place,200,,amenity=fast_food,node,3483644709.0,,33.8903387,35.5066434
+INC203,osm,Unnamed building,168.62,building:yes,building,200,,building=yes,way,546767075.0,,33.8905892,35.5032415
+INC203,osm,Unnamed building,169.08,building:yes,building,200,,building=yes,way,546767040.0,,33.8916727,35.5033572
+INC203,osm,Falafel Abou Az-Ziz,171.28,amenity:fast_food,place,200,"Rue de Damas, Beyrouth",amenity=fast_food,node,3615826356.0,,33.8902819,35.5066416
+INC203,osm,Unnamed building,171.97,building:yes,building,200,Beyrouth,building=yes,way,483169057.0,,33.8901208,35.5065328
+INC203,osm,Unnamed building,172.07,building:yes,building,200,,building=yes,way,546767078.0,,33.8902523,35.5033679
+INC203,osm,Unnamed building,172.52,building:yes,building,200,,building=yes,way,572428629.0,,33.8907732,35.506849
+INC203,osm,Zion Falafel,173.94,amenity:fast_food,place,200,"طريق الشام, Beyrouth",amenity=fast_food,node,9021307017.0,,33.890364,35.5067216
+INC203,osm,Unnamed building,175.39,building:yes,building,200,,building=yes,way,546769174.0,,33.8911243,35.5068942
+INC203,osm,Unnamed building,175.72,building:yes,building,200,,building=yes,way,581836391.0,,33.8894236,35.5051342
+INC203,osm,Unnamed building,176.06,building:yes,building,200,,building=yes,way,546767066.0,,33.8904458,35.5032132
+INC203,osm,Unnamed building,176.23,building:yes,building,200,,building=yes,way,581836361.0,,33.8898328,35.5037085
+INC203,osm,Unnamed building,177.0,building:yes,building,200,,building=yes,way,546767039.0,,33.8915745,35.5032116
+INC203,osm,Unnamed building,177.33,building:yes,building,200,,building=yes,way,891995350.0,,33.891424,35.506852
+INC203,osm,Unnamed building,178.79,building:yes,building,200,,building=yes,way,502074267.0,,33.8900956,35.5033985
+INC203,osm,Unnamed building,180.17,building:yes,building,200,,building=yes,way,581836393.0,,33.8893994,35.5053032
+INC203,osm,Unnamed building,180.55,building:yes,building,200,,building=yes,way,483169065.0,,33.8918576,35.506661
+INC203,osm,Unnamed building,181.44,building:yes,building,200,,building=yes,way,546767033.0,,33.8909659,35.5030347
+INC203,osm,Unnamed building,181.51,building:yes,building,200,,building=yes,way,546767067.0,,33.8907182,35.5030631
+INC203,osm,Unnamed building,181.82,building:yes,building,200,,building=yes,way,581836373.0,,33.8896005,35.5039812
+INC203,osm,Unnamed building,182.82,building:yes,building,200,,building=yes,way,581836378.0,,33.8894332,35.5043996
+INC203,osm,Unnamed building,183.7,building:yes,building,200,,building=yes,way,546767035.0,,33.8911813,35.5030218
+INC203,osm,Unnamed building,183.73,building:yes,building,200,,building=yes,way,581836371.0,,33.8894892,35.5041941
+INC203,osm,Unnamed building,183.91,building:yes,building,200,,building=yes,way,581836360.0,,33.8898721,35.5035427
+INC203,osm,Unnamed landuse:brownfield,184.94,landuse:brownfield,mapped_object,200,,,way,581836395.0,,33.8893968,35.5055333
+INC203,osm,Unnamed building,185.35,building:yes,building,200,,building=yes,way,546769175.0,,33.8907729,35.5069893
+INC203,osm,Unnamed landuse:brownfield,185.36,landuse:brownfield,mapped_object,200,,,way,546140449.0,,33.8921602,35.503558
+INC203,osm,Croissant Margo,185.38,shop:bakery,business,200,Beyrouth,shop=bakery,node,3259362763.0,,33.8896704,35.5062117
+INC203,osm,Unnamed building,187.44,building:yes,building,200,,building=yes,way,546767036.0,,33.8914119,35.5030309
+INC203,osm,Unnamed building,187.94,building:yes,building,200,,building=yes,way,546772286.0,,33.8916203,35.5068941
+INC203,osm,Unnamed building,188.45,building:yes,building,200,,building=yes,way,546767073.0,,33.8905817,35.5030215
+INC203,osm,Unnamed building,191.57,building:yes,building,200,,building=yes,way,546767079.0,,33.8901627,35.5031861
+INC203,osm,Unnamed building,193.13,building:yes,building,200,,building=yes,way,581836390.0,,33.8892635,35.5049576
+INC203,osm,Unnamed building,193.32,building:yes,building,200,,building=yes,way,581836359.0,,33.8898952,35.5033829
+INC203,osm,Unnamed building,193.41,building:yes,building,200,,building=yes,way,546769180.0,,33.8904353,35.5069819
+INC203,osm,Unnamed building,194.15,building:yes,building,200,,building=yes,way,546767042.0,,33.8916488,35.5030472
+INC203,osm,Unnamed building,194.69,building:yes,building,200,,building=yes,way,891995348.0,,33.8918158,35.5068663
+INC203,osm,Unnamed building,195.12,building:yes,building,200,,building=yes,way,581836394.0,,33.8893516,35.5057247
+INC203,osm,Unnamed building,195.52,building:yes,building,200,,building=yes,way,581836372.0,,33.8894345,35.5040355
+INC203,osm,yasmine cafe,195.62,amenity:cafe,building,200,بيروت,building=yes; amenity=cafe; opening_hours=24/7,way,581836387.0,,33.8892823,35.504542
+INC203,osm,Unnamed building,196.26,building:yes,building,200,,building=yes,way,546769182.0,,33.8901174,35.5068413
+INC203,osm,Unnamed building,196.26,building:yes,building,200,,building=yes,way,581836362.0,,33.8896311,35.5036578
+INC203,osm,Unnamed building,197.1,building:yes,building,200,,building=yes,way,546767034.0,,33.8908889,35.5028688
+INC203,osm,Unnamed building,198.69,building:yes,building,200,,building=yes,way,581836379.0,,33.8892932,35.5043628
+INC203,osm,Unnamed building,199.45,building:yes,building,200,,building=yes,way,546767063.0,,33.8904522,35.5029424
+INC204,osm,Unnamed landuse:brownfield,53.03,landuse:brownfield,mapped_object,200,,,way,834014451.0,,33.8995236,35.5099738
+INC204,osm,Unnamed man_made:pier,77.08,man_made:pier,infrastructure,200,,man_made=pier,way,931260855.0,,33.8996249,35.5107023
+INC204,google,Indigo on the Roof,89.44,restaurant,place,200,"Le Gray Hotel Martyrs Square، Bayrut, Lebanon",google_primary_type=restaurant; google_types=restaurant|food|point_of_interest|establishment,,,ChIJj6eAWCEXHxURj4gfx-tkRmY,33.9007447,35.5096337
+INC204,osm,Unnamed amenity:parking,95.17,amenity:parking,place,200,,amenity=parking,way,802956482.0,,33.8998196,35.508992
+INC204,google,Mecanica Group sal,96.0,auto_parts_store,place,200,"Byblos byblos, VGX6+P62, Bayrut, Lebanon",google_primary_type=auto_parts_store; google_types=auto_parts_store|store|car_repair|point_of_interest|service|establishment,,,ChIJK8EUr44XHxUREmiVO2Imj-s,33.8992542,35.510524
+INC204,google,Stay Fit,96.0,restaurant,place,200,"VGX6+P62, Beirut, Lebanon",google_primary_type=restaurant; google_types=restaurant|food|point_of_interest|establishment,,,ChIJN3hhVlgXHxURZ9OcMy4mr4s,33.8992542,35.510524
+INC204,osm,Unnamed military:checkpoint,130.22,military:checkpoint,military,200,,military=checkpoint,way,571333474.0,,33.8999314,35.5085915
+INC204,osm,CMA CGM,130.66,office:company,place,200,,office=company,node,6353141485.0,,33.8988547,35.5103168
+INC204,osm,Unnamed building,137.27,building:yes,building,200,,building=yes,way,571333473.0,,33.8999762,35.5085129
+INC204,osm,Unnamed building,137.6,building:yes,building,200,,building=yes,way,571333472.0,,33.9001559,35.508521
+INC204,google,الاسكان,141.6,association_or_organization,place,200,"VGX6+G44 مكتب ليالي، Bayrut, Lebanon",google_primary_type=association_or_organization; google_types=local_government_office|government_office|association_or_organization|point_of_interest|establishment,,,ChIJax2UdgAXHxURkbAqvhmsbm8,33.8987589,35.5103434
+INC204,google,مكتب,141.6,corporate_office,place,200,"VGX6+G45, Beirut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJ8RrrQJwXHxUREU5h9c9eMrY,33.8987589,35.5103434
+INC204,google,CMA CGM - MERIT,142.32,shipping_service,place,200,"VGX6+G45, Beirut, Lebanon",google_primary_type=shipping_service; google_types=shipping_service|point_of_interest|service|establishment,,,ChIJ6dw1APAWHxURSHdd-fvcnDM,33.8987545,35.5103554
+INC204,osm,Unnamed building,152.11,building:yes,building,200,,building=yes,way,834014482.0,,33.8993457,35.5114474
+INC204,google,shiplebanon,153.92,google_place,place,200,"VGX6+F6F، Port، Bayrut, Lebanon",google_primary_type=google_place; google_types=point_of_interest|establishment,,,ChIJZUgAvT4XHxURqedSVPgKFZQ,33.898689,35.5105354
+INC204,osm,Unnamed building,161.17,building:yes,building,200,,building=yes,way,489235829.0,,33.898599,35.5104477
+INC204,google,Gerbaka Skin Clinic,164.52,doctor,place,200,"Beirut, Lebanon",google_primary_type=doctor; google_types=doctor|point_of_interest|health|establishment,,,ChIJxcSLtdYXHxURtjNPdmjqxow,33.8985205,35.5100131
+INC204,google,AR Co,167.39,finance,place,200,"VGX6+93R, Beirut, Lebanon",google_primary_type=finance; google_types=finance|point_of_interest|establishment,,,ChIJ4UDLHXoXHxURSX5ghJ-JY3E,33.8984991,35.51014
+INC204,osm,Unnamed building,167.53,building:yes,building,200,,building=yes,way,834014483.0,,33.8992748,35.5115911
+INC204,google,IRC HR Services,170.29,service,place,200,"Beirut, Lebanon",google_primary_type=service; google_types=point_of_interest|service|establishment,,,ChIJl_Zz9u8WHxURNtYuz2zXxqc,33.8984728,35.5101375
+INC204,osm,Unnamed building,171.57,building:yes,building,200,,building=yes,way,571333470.0,,33.9002081,35.508158
+INC204,google,Suleiman Agricultural Company,172.28,association_or_organization,place,200,"George Haddad St - Saifi Beirut Central District Beirut Harbor 1504 Bldg - 3rd floor, Bayrut, Lebanon",google_primary_type=association_or_organization; google_types=association_or_organization|wholesaler|point_of_interest|service|establishment,,,ChIJTUUh-QEXHxURdaA30EWZBfA,33.8984579,35.51018
+INC204,google,Miele,172.53,home_goods_store,place,200,"St Saifi, George Haddad, Bayrut, Lebanon",google_primary_type=home_goods_store; google_types=furniture_store|home_improvement_store|home_goods_store|store|point_of_interest|general_contractor|service|establishment,,,ChIJPeV5X-UWHxURCtY3DNkkB5Y,33.898452,35.509872
+INC204,google,TA Group,176.19,corporate_office,place,200,"Al Marfa'a, Beirut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJsX4G7RgXHxUR1ERe8Jvv3Ps,33.8984158,35.5099619
+INC204,google,Lounge Dental Clinic - Dental Implant Beirut Lebanon,176.49,dental_clinic,place,200,"Harbor bldg 1504, 2nd floor, بيروت، Lebanon",google_primary_type=dental_clinic; google_types=dental_clinic|dentist|medical_clinic|point_of_interest|health|establishment,,,ChIJuyr62Gw-HxURbq4zUAoujao,33.8984129,35.5099738
+INC204,osm,Ancient Tell: Canaanite Gate,176.69,tourism:attraction,place,200,Beirut,tourism=attraction,node,12700355415.0,,33.8986295,35.5090312
+INC204,google,Arab Air Carriers Organization (AACO),178.01,corporate_office,place,200,"Beirut, Lebanon",google_primary_type=corporate_office; google_types=corporate_office|point_of_interest|establishment,,,ChIJJSUqWbkXHxURJwODs3zZaCc,33.8983994,35.5099644
+INC204,google,Tekramtaxi,179.18,hotel,place,200,"VGX6+942, Beirut, Lebanon",google_primary_type=hotel; google_types=hotel|lodging|point_of_interest|establishment,,,ChIJU2mAdbkZHxURk0o66CbDtbE,33.8984138,35.5103422
+INC204,google,LEBELIK Headoffice,179.45,service,place,200,"VGX6+949, Beirut, Lebanon",google_primary_type=service; google_types=point_of_interest|service|establishment,,,ChIJOzOmm5cXHxUR1D5OV5_IXlE,33.8984121,35.5103471
+INC204,google,Prime Gold,181.88,store,place,200,"George Haddad, Saifi 2038 3054, Lebanon",google_primary_type=store; google_types=finance|store|point_of_interest|establishment,,,ChIJyaVpYi0XHxURkAE9Gz32P8Q,33.8983686,35.5101429
+INC204,google,FMCP sarl,182.02,service,place,200,"VGX6+83R, Beirut, Lebanon",google_primary_type=service; google_types=point_of_interest|service|establishment,,,ChIJtWqaWOUWHxURpkD8HsBblwI,33.898367,35.510137
+INC204,osm,Unnamed building,182.31,building:yes,building,200,,building=yes,way,201251107.0,,33.8995497,35.5118994
+INC204,osm,Unnamed building,182.92,building:yes,building,200,,building=yes,way,571333468.0,,33.900003,35.5080181
+INC204,google,Wakim Group,183.36,furniture_store,place,200,"St Saifi, George Haddad, Bayrut, Lebanon",google_primary_type=furniture_store; google_types=furniture_store|home_improvement_store|home_goods_store|store|point_of_interest|establishment,,,ChIJNXMK4icXHxURpx-tHnLum5s,33.8983524,35.5099192
+INC204,osm,Unnamed building,184.36,building:yes,building,200,,building=yes,way,571333469.0,,33.9002604,35.5080272
+INC204,osm,Unnamed building,187.43,building:yes,building,200,,building=yes,way,834014494.0,,33.8984817,35.510882
+INC204,osm,Unnamed building,187.52,building:yes,building,200,,building=yes,way,489235830.0,,33.898317,35.5101292
+INC204,osm,Unnamed amenity:parking,198.05,amenity:parking,place,200,,amenity=parking,way,449287372.0,,33.8984568,35.5089286

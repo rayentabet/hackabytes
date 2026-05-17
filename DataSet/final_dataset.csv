@@ -1,0 +1,201 @@
+incident_id,report_id,report_latitude,report_longitude,q1,q2,q3,q4,q5,true_class
+INC0001,REP0001,33.220076,35.284645,Electrical equipment,Unknown,Explosion,Light smoke,Spreading rapidly,B
+INC0001,REP0002,33.218696,35.285317,Chemicals,Unknown,Spreading fire,Unknown,Intermittent,B
+INC0002,REP0003,33.061148,35.212327,Unknown,Forest,Sudden flames,Dark smoke,Spreading rapidly,B
+INC0002,REP0004,33.063654,35.215434,Chemicals,Kitchen,Sudden flames,Dark smoke,Unknown,B
+INC0003,REP0005,33.167519,35.338269,Fuel,Kitchen,Explosion,Burning plastic smell,Localized,B
+INC0003,REP0006,33.165732,35.337995,Chemicals,Forest,Grease ignition,Chemical smell,Spreading rapidly,B
+INC0004,REP0007,33.113899,35.408123,Electrical equipment,Forest,Short circuit,Burning plastic smell,Flickering,C
+INC0004,REP0008,33.112303,35.407241,Wires,Building,Short circuit,Burning plastic smell,Flickering,C
+INC0005,REP0009,33.206049,35.569621,Cooking oil,Industrial area,Oil flare,Dense smoke,Localized,K
+INC0005,REP0010,33.208517,35.570161,Cooking oil,Road,Oil flare,Dense smoke,Localized,K
+INC0006,REP0011,33.210821,35.567156,Wires,Forest,Short circuit,Little smoke,Spreading slowly,C
+INC0006,REP0012,33.211945,35.570201,Unknown,Kitchen,Sparks,Chemical smell,Localized,B
+INC0007,REP0013,33.217196,35.627905,Cooking oil,Industrial area,Grease ignition,Unknown,Strong flames,K
+INC0007,REP0014,33.218688,35.626001,Fuel,Industrial area,Explosion,Unknown,Spreading rapidly,B
+INC0008,REP0015,33.274276,35.271739,Fuel,Unknown,Explosion,Chemical smell,Explosive,B
+INC0008,REP0016,33.275586,35.270937,Trash,Road,Explosion,Unknown,Unknown,A
+INC0009,REP0017,33.077345,35.141528,Fuel,Industrial area,Explosion,Dark smoke,Explosive,B
+INC0009,REP0018,33.075068,35.141404,Wires,Industrial area,Short circuit,Unknown,Unknown,C
+INC0010,REP0019,33.238374,35.677972,Chemicals,Road,Sudden flames,Chemical smell,Spreading rapidly,B
+INC0010,REP0020,33.238033,35.678418,Fuel,Building,Explosion,Chemical smell,Explosive,B
+INC0011,REP0021,33.225186,35.616394,Vegetation,Forest,Unknown,Natural burning smell,Wide spread,A
+INC0011,REP0022,33.223414,35.616665,Fuel,Road,Explosion,Little smoke,Spreading slowly,B
+INC0012,REP0023,33.137394,35.427813,Cooking oil,Kitchen,Oil flare,Unknown,Localized,K
+INC0012,REP0024,33.137265,35.427858,Cooking oil,Industrial area,Oil flare,Dark smoke,Localized,K
+INC0013,REP0025,33.240551,35.577258,Chemicals,Building,Sudden flames,Chemical smell,Flickering,B
+INC0013,REP0026,33.241812,35.577046,Chemicals,Forest,Explosion,Unknown,Spreading rapidly,B
+INC0014,REP0027,33.275415,35.213153,Trash,Kitchen,Spreading fire,Natural burning smell,Spreading rapidly,A
+INC0014,REP0028,33.273479,35.212348,Wires,Unknown,Short circuit,Burning plastic smell,Flickering,C
+INC0015,REP0029,33.236196,35.342771,Unknown,Unknown,Explosion,Unknown,Flickering,B
+INC0015,REP0030,33.235845,35.343979,Chemicals,Industrial area,Explosion,Dark smoke,Unknown,B
+INC0016,REP0031,33.144452,35.405764,Vegetation,Kitchen,Spreading fire,Natural burning smell,Spreading slowly,A
+INC0016,REP0032,33.145324,35.406312,Chemicals,Industrial area,Explosion,Little smoke,Unknown,B
+INC0017,REP0033,33.131463,35.415571,Unknown,Road,Sudden flames,Burning plastic smell,Spreading rapidly,B
+INC0017,REP0034,33.131856,35.418027,Wires,Unknown,Sudden flames,Dark smoke,Flickering,B
+INC0018,REP0035,33.192865,35.570364,Electrical equipment,Building,Sparks,Unknown,Unknown,C
+INC0018,REP0036,33.193607,35.569014,Chemicals,Building,Sudden flames,Chemical smell,Spreading rapidly,B
+INC0019,REP0037,33.290505,35.257138,Cooking oil,Building,Explosion,Unknown,Spreading rapidly,B
+INC0019,REP0038,33.290055,35.256079,Electrical equipment,Unknown,Explosion,Burning plastic smell,Flickering,C
+INC0020,REP0039,33.200793,35.569776,Chemicals,Unknown,Explosion,Dark smoke,Unknown,B
+INC0020,REP0040,33.20282,35.570089,Chemicals,Unknown,Sudden flames,Chemical smell,Explosive,B
+INC0021,REP0041,33.170069,35.572681,Fuel,Industrial area,Sparks,Chemical smell,Unknown,B
+INC0021,REP0042,33.171322,35.570017,Chemicals,Industrial area,Sudden flames,Unknown,Explosive,B
+INC0022,REP0043,33.194428,35.658213,Wires,Road,Explosion,Oil smell,Intermittent,C
+INC0022,REP0044,33.191985,35.656809,Chemicals,Road,Explosion,Dark smoke,Explosive,B
+INC0023,REP0045,33.325956,35.428623,Fuel,Kitchen,Unknown,Unknown,Flickering,B
+INC0023,REP0046,33.325187,35.428048,Wires,Unknown,Explosion,Dark smoke,Spreading rapidly,B
+INC0024,REP0047,33.14478,35.40942,Unknown,Road,Sudden flames,Dark smoke,Explosive,B
+INC0024,REP0048,33.146111,35.408709,Unknown,Kitchen,Slow smoke,Chemical smell,Unknown,A
+INC0025,REP0049,33.295398,35.273828,Unknown,Road,Sudden flames,Dark smoke,Spreading rapidly,B
+INC0025,REP0050,33.299006,35.272304,Chemicals,Building,Spreading fire,Chemical smell,Explosive,B
+INC0026,REP0051,33.210065,35.29411,Cooking oil,Industrial area,Grease ignition,Light smoke,Localized,K
+INC0026,REP0052,33.208544,35.294009,Grease,Unknown,Grease ignition,Oil smell,Strong flames,K
+INC0027,REP0053,33.262811,35.218409,Grease,Road,Unknown,Dense smoke,Strong flames,K
+INC0027,REP0054,33.262866,35.219381,Wires,Unknown,Grease ignition,Little smoke,Unknown,K
+INC0028,REP0055,33.301282,35.313159,Cooking oil,Building,Explosion,Dense smoke,Wide spread,K
+INC0028,REP0056,33.299995,35.315947,Grease,Road,Oil flare,Dense smoke,Explosive,K
+INC0029,REP0057,33.280066,35.580304,Wires,Building,Grease ignition,Oil smell,Localized,K
+INC0029,REP0058,33.280946,35.577142,Electrical equipment,Forest,Unknown,Burning plastic smell,Flickering,C
+INC0030,REP0059,33.229864,35.620538,Grease,Building,Unknown,Dense smoke,Unknown,K
+INC0030,REP0060,33.231262,35.622771,Cooking oil,Building,Grease ignition,Oil smell,Spreading slowly,K
+INC0031,REP0061,33.226775,35.640427,Wood,Kitchen,Slow smoke,Unknown,Wide spread,A
+INC0031,REP0062,33.226722,35.640538,Cooking oil,Kitchen,Explosion,Dense smoke,Spreading rapidly,K
+INC0032,REP0063,33.223143,35.615728,Unknown,Forest,Short circuit,Burning plastic smell,Intermittent,C
+INC0032,REP0064,33.223543,35.61528,Grease,Industrial area,Grease ignition,Dense smoke,Localized,K
+INC0033,REP0065,33.301228,35.311719,Cooking oil,Forest,Oil flare,Dense smoke,Localized,K
+INC0033,REP0066,33.301063,35.314186,Wires,Building,Grease ignition,Little smoke,Intermittent,C
+INC0034,REP0067,33.070522,35.135661,Fuel,Kitchen,Spreading fire,Unknown,Explosive,B
+INC0034,REP0068,33.068188,35.136491,Grease,Building,Grease ignition,Natural burning smell,Wide spread,K
+INC0035,REP0069,33.218298,35.583719,Cooking oil,Unknown,Grease ignition,Little smoke,Localized,K
+INC0035,REP0070,33.219506,35.585745,Cooking oil,Building,Unknown,Oil smell,Spreading rapidly,K
+INC0036,REP0071,33.169416,35.569509,Unknown,Building,Oil flare,Dense smoke,Unknown,K
+INC0036,REP0072,33.171119,35.569273,Unknown,Industrial area,Oil flare,Dense smoke,Flickering,K
+INC0037,REP0073,33.193134,35.572076,Vegetation,Kitchen,Unknown,Light smoke,Unknown,A
+INC0037,REP0074,33.192703,35.569206,Grease,Forest,Oil flare,Little smoke,Localized,K
+INC0038,REP0075,33.247639,35.692983,Grease,Road,Unknown,Unknown,Intermittent,K
+INC0038,REP0076,33.246575,35.690079,Unknown,Building,Oil flare,Oil smell,Localized,K
+INC0039,REP0077,33.273878,35.194504,Grease,Road,Unknown,Dense smoke,Localized,K
+INC0039,REP0078,33.275088,35.195255,Grease,Kitchen,Grease ignition,Oil smell,Unknown,K
+INC0040,REP0079,33.263572,35.205301,Grease,Building,Oil flare,Dense smoke,Unknown,K
+INC0040,REP0080,33.264505,35.206745,Chemicals,Building,Unknown,Unknown,Explosive,B
+INC0041,REP0081,33.227769,35.645294,Grease,Kitchen,Oil flare,Little smoke,Intermittent,K
+INC0041,REP0082,33.228647,35.64517,Cooking oil,Industrial area,Short circuit,Dense smoke,Strong flames,K
+INC0042,REP0083,33.12673,35.571368,Chemicals,Unknown,Grease ignition,Dark smoke,Unknown,B
+INC0042,REP0084,33.12459,35.569583,Wood,Building,Grease ignition,Oil smell,Localized,K
+INC0043,REP0085,33.200987,35.607484,Cooking oil,Forest,Oil flare,Oil smell,Strong flames,K
+INC0043,REP0086,33.198606,35.605778,Grease,Unknown,Oil flare,Light smoke,Unknown,K
+INC0044,REP0087,33.257132,35.214998,Grease,Road,Grease ignition,Dense smoke,Localized,K
+INC0044,REP0088,33.257555,35.218484,Grease,Unknown,Unknown,Dense smoke,Localized,K
+INC0045,REP0089,33.222885,35.61554,Electrical equipment,Unknown,Sparks,Burning plastic smell,Unknown,C
+INC0045,REP0090,33.22222,35.615581,Cooking oil,Road,Grease ignition,Dense smoke,Strong flames,K
+INC0046,REP0091,33.225143,35.636106,Cooking oil,Kitchen,Oil flare,Unknown,Strong flames,K
+INC0046,REP0092,33.227742,35.639456,Cooking oil,Kitchen,Oil flare,Unknown,Strong flames,K
+INC0047,REP0093,33.195364,35.571586,Unknown,Industrial area,Oil flare,Dense smoke,Strong flames,K
+INC0047,REP0094,33.195948,35.572867,Cooking oil,Road,Explosion,Oil smell,Spreading rapidly,K
+INC0048,REP0095,33.27692,35.577976,Wood,Forest,Spreading fire,Light smoke,Intermittent,A
+INC0048,REP0096,33.277335,35.57903,Fuel,Forest,Sudden flames,Unknown,Explosive,B
+INC0049,REP0097,33.193584,35.570592,Grease,Building,Grease ignition,Dense smoke,Unknown,K
+INC0049,REP0098,33.193645,35.569967,Electrical equipment,Building,Sparks,Light smoke,Unknown,C
+INC0050,REP0099,33.290635,35.227465,Cooking oil,Building,Unknown,Oil smell,Flickering,K
+INC0050,REP0100,33.290501,35.224652,Cooking oil,Building,Sparks,Dense smoke,Localized,K
+INC0051,REP0101,33.164591,35.347444,Fuel,Industrial area,Explosion,Unknown,Explosive,B
+INC0051,REP0102,33.163612,35.350624,Chemicals,Building,Explosion,Dark smoke,Spreading slowly,B
+INC0052,REP0103,33.151751,35.327725,Wires,Kitchen,Sparks,Little smoke,Flickering,C
+INC0052,REP0104,33.152465,35.32675,Wood,Industrial area,Grease ignition,Natural burning smell,Spreading slowly,A
+INC0053,REP0105,33.164959,35.346516,Electrical equipment,Forest,Short circuit,Burning plastic smell,Explosive,C
+INC0053,REP0106,33.164113,35.3457,Wires,Road,Sparks,Unknown,Localized,C
+INC0054,REP0107,33.166558,35.580882,Wires,Kitchen,Sparks,Burning plastic smell,Spreading slowly,C
+INC0054,REP0108,33.169757,35.580157,Electrical equipment,Unknown,Short circuit,Burning plastic smell,Unknown,C
+INC0055,REP0109,33.12667,35.567573,Grease,Industrial area,Short circuit,Little smoke,Flickering,C
+INC0055,REP0110,33.126774,35.569835,Wires,Road,Sparks,Chemical smell,Intermittent,C
+INC0056,REP0111,33.124257,35.568184,Electrical equipment,Road,Short circuit,Little smoke,Strong flames,C
+INC0056,REP0112,33.126162,35.567827,Wires,Industrial area,Short circuit,Unknown,Flickering,C
+INC0057,REP0113,33.055118,35.497603,Electrical equipment,Road,Short circuit,Unknown,Intermittent,C
+INC0057,REP0114,33.056209,35.496628,Wires,Kitchen,Short circuit,Burning plastic smell,Spreading slowly,C
+INC0058,REP0115,33.164631,35.346678,Electrical equipment,Industrial area,Short circuit,Dark smoke,Intermittent,C
+INC0058,REP0116,33.164235,35.347318,Wires,Building,Sparks,Burning plastic smell,Localized,C
+INC0059,REP0117,33.150742,35.324505,Chemicals,Building,Unknown,Burning plastic smell,Unknown,C
+INC0059,REP0118,33.151933,35.326646,Unknown,Road,Oil flare,Chemical smell,Explosive,B
+INC0060,REP0119,33.176162,35.576201,Electrical equipment,Industrial area,Short circuit,Little smoke,Unknown,C
+INC0060,REP0120,33.175056,35.572597,Chemicals,Road,Explosion,Dark smoke,Explosive,B
+INC0061,REP0121,33.210068,35.583356,Chemicals,Road,Sparks,Dark smoke,Strong flames,B
+INC0061,REP0122,33.212215,35.583394,Wires,Industrial area,Sparks,Unknown,Flickering,C
+INC0062,REP0123,33.12619,35.568546,Wires,Industrial area,Sparks,Burning plastic smell,Intermittent,C
+INC0062,REP0124,33.125743,35.569872,Wires,Unknown,Short circuit,Natural burning smell,Explosive,C
+INC0063,REP0125,33.126117,35.571112,Chemicals,Industrial area,Sudden flames,Chemical smell,Explosive,B
+INC0063,REP0126,33.126622,35.568227,Electrical equipment,Unknown,Short circuit,Oil smell,Unknown,C
+INC0064,REP0127,33.174317,35.390454,Electrical equipment,Kitchen,Sudden flames,Light smoke,Flickering,C
+INC0064,REP0128,33.17696,35.390261,Wires,Kitchen,Sparks,Dense smoke,Spreading slowly,C
+INC0065,REP0129,33.163733,35.346513,Chemicals,Industrial area,Oil flare,Chemical smell,Explosive,B
+INC0065,REP0130,33.164363,35.345644,Vegetation,Unknown,Spreading fire,Light smoke,Unknown,A
+INC0066,REP0131,33.052544,35.620776,Trash,Building,Slow smoke,Unknown,Wide spread,A
+INC0066,REP0132,33.051632,35.623427,Electrical equipment,Unknown,Unknown,Dark smoke,Intermittent,C
+INC0067,REP0133,33.050553,35.619622,Trash,Unknown,Spreading fire,Natural burning smell,Wide spread,A
+INC0067,REP0134,33.052581,35.621674,Fuel,Industrial area,Unknown,Dark smoke,Spreading rapidly,B
+INC0068,REP0135,33.128408,35.5693,Wires,Road,Unknown,Little smoke,Intermittent,C
+INC0068,REP0136,33.12627,35.571353,Electrical equipment,Kitchen,Sparks,Dark smoke,Unknown,C
+INC0069,REP0137,33.149287,35.394178,Wires,Building,Short circuit,Unknown,Flickering,C
+INC0069,REP0138,33.148221,35.39531,Wires,Industrial area,Sparks,Burning plastic smell,Intermittent,C
+INC0070,REP0139,33.247012,35.691178,Wires,Unknown,Unknown,Little smoke,Strong flames,C
+INC0070,REP0140,33.246827,35.690775,Cooking oil,Unknown,Explosion,Dark smoke,Localized,B
+INC0071,REP0141,33.21154,35.585619,Fuel,Building,Sudden flames,Dense smoke,Unknown,B
+INC0071,REP0142,33.21092,35.5855,Trash,Forest,Slow smoke,Oil smell,Strong flames,A
+INC0072,REP0143,33.052496,35.503275,Electrical equipment,Kitchen,Short circuit,Unknown,Unknown,C
+INC0072,REP0144,33.053098,35.505372,Electrical equipment,Unknown,Sparks,Burning plastic smell,Flickering,C
+INC0073,REP0145,33.164947,35.582628,Wires,Building,Sparks,Chemical smell,Intermittent,C
+INC0073,REP0146,33.165169,35.580996,Electrical equipment,Road,Short circuit,Unknown,Unknown,C
+INC0074,REP0147,33.219574,35.625279,Wood,Unknown,Sudden flames,Oil smell,Wide spread,A
+INC0074,REP0148,33.218043,35.622792,Chemicals,Unknown,Explosion,Dark smoke,Spreading rapidly,B
+INC0075,REP0149,33.276156,35.227988,Electrical equipment,Road,Sparks,Burning plastic smell,Unknown,C
+INC0075,REP0150,33.275353,35.227572,Unknown,Road,Sudden flames,Dark smoke,Unknown,B
+INC0076,REP0151,33.318644,35.581045,Unknown,Unknown,Spreading fire,Light smoke,Spreading slowly,A
+INC0076,REP0152,33.31895,35.580601,Wires,Forest,Unknown,Chemical smell,Spreading rapidly,B
+INC0077,REP0153,33.307157,35.596266,Trash,Building,Slow smoke,Natural burning smell,Unknown,A
+INC0077,REP0154,33.307474,35.595159,Vegetation,Unknown,Spreading fire,Light smoke,Wide spread,A
+INC0078,REP0155,33.324061,35.577872,Unknown,Building,Unknown,Light smoke,Wide spread,A
+INC0078,REP0156,33.323388,35.581942,Wood,Forest,Spreading fire,Unknown,Spreading slowly,A
+INC0079,REP0157,33.276862,35.741822,Trash,Kitchen,Spreading fire,Burning plastic smell,Unknown,A
+INC0079,REP0158,33.277606,35.739829,Unknown,Road,Slow smoke,Unknown,Spreading slowly,A
+INC0080,REP0159,33.29705,35.713878,Electrical equipment,Industrial area,Sudden flames,Natural burning smell,Wide spread,C
+INC0080,REP0160,33.29835,35.714467,Fuel,Road,Spreading fire,Chemical smell,Spreading rapidly,B
+INC0081,REP0161,33.230323,35.731536,Wires,Kitchen,Short circuit,Burning plastic smell,Intermittent,C
+INC0081,REP0162,33.229742,35.73037,Vegetation,Kitchen,Slow smoke,Light smoke,Strong flames,A
+INC0082,REP0163,33.300484,35.759699,Wood,Building,Spreading fire,Oil smell,Wide spread,A
+INC0082,REP0164,33.301352,35.759612,Fuel,Forest,Sudden flames,Chemical smell,Unknown,B
+INC0083,REP0165,33.322518,35.576375,Trash,Forest,Slow smoke,Light smoke,Explosive,A
+INC0083,REP0166,33.321101,35.580281,Vegetation,Forest,Slow smoke,Light smoke,Unknown,A
+INC0084,REP0167,33.303607,35.599443,Chemicals,Industrial area,Explosion,Dark smoke,Explosive,B
+INC0084,REP0168,33.303444,35.596217,Fuel,Unknown,Explosion,Chemical smell,Spreading rapidly,B
+INC0085,REP0169,33.318112,35.755999,Trash,Road,Sudden flames,Chemical smell,Explosive,B
+INC0085,REP0170,33.317422,35.758104,Wood,Industrial area,Spreading fire,Light smoke,Spreading rapidly,A
+INC0086,REP0171,33.355478,35.765024,Vegetation,Kitchen,Spreading fire,Light smoke,Unknown,A
+INC0086,REP0172,33.35533,35.763195,Vegetation,Building,Short circuit,Natural burning smell,Spreading rapidly,A
+INC0087,REP0173,33.301986,35.752503,Wood,Forest,Spreading fire,Chemical smell,Wide spread,A
+INC0087,REP0174,33.300983,35.755899,Fuel,Forest,Oil flare,Chemical smell,Spreading rapidly,B
+INC0088,REP0175,33.083202,35.769053,Chemicals,Industrial area,Sudden flames,Light smoke,Explosive,B
+INC0088,REP0176,33.082291,35.767375,Wood,Industrial area,Slow smoke,Natural burning smell,Spreading slowly,A
+INC0089,REP0177,33.33587,35.581327,Vegetation,Building,Spreading fire,Natural burning smell,Explosive,A
+INC0089,REP0178,33.335227,35.581999,Wood,Road,Slow smoke,Light smoke,Wide spread,A
+INC0090,REP0179,33.298796,35.590467,Vegetation,Unknown,Spreading fire,Natural burning smell,Unknown,A
+INC0090,REP0180,33.298563,35.588109,Fuel,Building,Sparks,Dark smoke,Unknown,B
+INC0091,REP0181,33.279781,35.745893,Trash,Forest,Spreading fire,Natural burning smell,Spreading slowly,A
+INC0091,REP0182,33.278983,35.743882,Trash,Building,Sparks,Light smoke,Unknown,A
+INC0092,REP0183,33.315329,35.744767,Electrical equipment,Road,Sparks,Dense smoke,Flickering,C
+INC0092,REP0184,33.316046,35.744443,Vegetation,Road,Sudden flames,Light smoke,Spreading slowly,A
+INC0093,REP0185,33.28185,35.747766,Fuel,Forest,Sudden flames,Dark smoke,Spreading slowly,B
+INC0093,REP0186,33.281352,35.746345,Vegetation,Forest,Spreading fire,Oil smell,Wide spread,A
+INC0094,REP0187,33.296974,35.581674,Unknown,Building,Short circuit,Natural burning smell,Spreading slowly,A
+INC0094,REP0188,33.298701,35.584005,Vegetation,Road,Slow smoke,Unknown,Flickering,A
+INC0095,REP0189,33.067027,35.7622,Trash,Forest,Oil flare,Burning plastic smell,Flickering,A
+INC0095,REP0190,33.068307,35.759677,Unknown,Forest,Slow smoke,Light smoke,Unknown,A
+INC0096,REP0191,33.349001,35.736539,Electrical equipment,Forest,Sparks,Natural burning smell,Flickering,C
+INC0096,REP0192,33.348788,35.735186,Trash,Forest,Slow smoke,Natural burning smell,Spreading slowly,A
+INC0097,REP0193,33.282088,35.714224,Vegetation,Building,Short circuit,Light smoke,Explosive,A
+INC0097,REP0194,33.281932,35.7133,Chemicals,Building,Explosion,Dark smoke,Spreading rapidly,B
+INC0098,REP0195,33.310869,35.742304,Vegetation,Forest,Grease ignition,Light smoke,Wide spread,A
+INC0098,REP0196,33.310271,35.742959,Unknown,Road,Grease ignition,Dense smoke,Unknown,K
+INC0099,REP0197,33.310947,35.72029,Vegetation,Road,Spreading fire,Natural burning smell,Unknown,A
+INC0099,REP0198,33.311711,35.720913,Wood,Unknown,Spreading fire,Burning plastic smell,Explosive,A
+INC0100,REP0199,33.34129,35.584807,Wood,Road,Spreading fire,Burning plastic smell,Intermittent,A
+INC0100,REP0200,33.340745,35.585862,Vegetation,Industrial area,Explosion,Light smoke,Spreading rapidly,A
